@@ -1,3 +1,2 @@
-# References
+Doing some git shit
 
-* octocat 1 😈
